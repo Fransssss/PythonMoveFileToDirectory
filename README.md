@@ -10,4 +10,6 @@ Example Output
 
 ![image](https://user-images.githubusercontent.com/97081479/179915200-1711a197-a55f-4b70-81cc-606a6efc7b3a.png)
 
+If there is typo or incorrect file name
+
 ![image](https://user-images.githubusercontent.com/97081479/179914609-0d2b9c0d-0625-4b29-98d5-3bbbcad3a14f.png)
